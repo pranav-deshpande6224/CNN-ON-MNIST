@@ -45,7 +45,7 @@ This converts the problem into a 4-class classification task. :contentReference[
 Dataset Split:
 
 - Training Images: 50,000
-- Test Images: 10,000 :contentReference[oaicite:1]{index=1}
+- Test Images: 10,000 
 
 ---
 
@@ -61,7 +61,7 @@ Dataset Split:
 
 ### Final Accuracy
 
-**98.57%** :contentReference[oaicite:2]{index=2}
+**98.57%** 
 
 ---
 
@@ -91,7 +91,7 @@ Dataset Split:
 
 ### Final Accuracy
 
-**99.03%** :contentReference[oaicite:3]{index=3}
+**99.03%**
 
 ---
 
@@ -137,7 +137,7 @@ Dataset Split:
 | Fully Connected Layer | 68 |
 | Total Parameters | 4368 |
 
-:contentReference[oaicite:5]{index=5}
+
 
 ---
 
@@ -203,7 +203,7 @@ Output:
 [B,16,14,14]
 ```
 
-:contentReference[oaicite:7]{index=7}
+
 
 ---
 
@@ -231,7 +231,7 @@ Output:
 [B,8,7,7]
 ```
 
-:contentReference[oaicite:8]{index=8}
+
 
 ---
 
@@ -259,7 +259,7 @@ Output:
 [B,4,2,2]
 ```
 
-:contentReference[oaicite:9]{index=9}
+
 
 ---
 
@@ -308,7 +308,7 @@ where:
 - yi = Ground Truth Label
 - ŷi = Predicted Probability
 
-:contentReference[oaicite:10]{index=10}
+
 
 ---
 
@@ -324,7 +324,6 @@ Training Configuration:
 | Epochs | 20 |
 | Learning Rate | 0.001 |
 
-:contentReference[oaicite:11]{index=11}
 
 ---
 
