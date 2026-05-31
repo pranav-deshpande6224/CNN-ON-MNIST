@@ -123,7 +123,7 @@ Dataset Split:
 | Fully Connected Layer | 170 |
 | Total Parameters | 4470 |
 
-:contentReference[oaicite:4]{index=4}
+
 
 ---
 
