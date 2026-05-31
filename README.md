@@ -1,5 +1,17 @@
 # Deep Classification on MNIST using Convolutional Neural Networks
 
+# Google Colab
+
+🔗 https://drive.google.com/file/d/19-Cw8XrEedDTogkj7qhQDxvAIqEPK1sR/view?usp=drive_link
+
+---
+
+# Handwritten Report
+
+📄 https://drive.google.com/file/d/1vRaCEGP9rgftlOwgyCeGJiu-XqpMyEZc/view?usp=drive_link
+
+---
+
 ## Introduction
 
 This project explores image classification on the MNIST handwritten digit dataset using Convolutional Neural Networks (CNNs).
@@ -138,18 +150,6 @@ Dataset Split:
 | Total Parameters | 4368 |
 
 
-
----
-
-# Google Colab
-
-🔗 https://drive.google.com/file/d/19-Cw8XrEedDTogkj7qhQDxvAIqEPK1sR/view?usp=drive_link
-
----
-
-# Handwritten Report
-
-📄 https://drive.google.com/file/d/1vRaCEGP9rgftlOwgyCeGJiu-XqpMyEZc/view?usp=drive_link
 
 ---
 
