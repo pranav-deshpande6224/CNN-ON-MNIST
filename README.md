@@ -56,7 +56,7 @@ Dataset Split:
 ## Test Accuracy
 
 <p align="center">
-<img src="assets/part1_accuracy.png" width="700">
+<img src="results/test_accuracy_1.png" width="900">
 </p>
 
 ### Final Accuracy
@@ -68,7 +68,7 @@ Dataset Split:
 ## Training Loss Curve
 
 <p align="center">
-<img src="assets/part1_loss_curve.png" width="800">
+<img src="results/part1_loss.png" width="900">
 </p>
 
 ---
@@ -76,7 +76,7 @@ Dataset Split:
 ## Confusion Matrix
 
 <p align="center">
-<img src="assets/part1_confusion_matrix.png" width="800">
+<img src="results/confusion_part1.png" width="900">
 </p>
 
 ---
@@ -86,7 +86,7 @@ Dataset Split:
 ## Test Accuracy
 
 <p align="center">
-<img src="assets/part2_accuracy.png" width="700">
+<img src="results/test_accuracy_2.png" width="900">
 </p>
 
 ### Final Accuracy
@@ -98,7 +98,7 @@ Dataset Split:
 ## Training Loss Curve
 
 <p align="center">
-<img src="assets/part2_loss_curve.png" width="800">
+<img src="results/part2_loss.png" width="800">
 </p>
 
 ---
@@ -106,7 +106,7 @@ Dataset Split:
 ## Confusion Matrix
 
 <p align="center">
-<img src="assets/part2_confusion_matrix.png" width="800">
+<img src="results/part2_confusion.png" width="800">
 </p>
 
 ---
@@ -143,25 +143,13 @@ Dataset Split:
 
 # Google Colab
 
-🔗 PASTE_COLAB_LINK
+🔗 https://drive.google.com/file/d/19-Cw8XrEedDTogkj7qhQDxvAIqEPK1sR/view?usp=drive_link
 
 ---
 
 # Handwritten Report
 
-📄 PASTE_HANDWRITTEN_REPORT_LINK
-
----
-
-# Trained Models
-
-## Part 1 CNN
-
-📦 PASTE_PART1_MODEL_LINK
-
-## Part 2 CNN
-
-📦 PASTE_PART2_MODEL_LINK
+📄 https://drive.google.com/file/d/1vRaCEGP9rgftlOwgyCeGJiu-XqpMyEZc/view?usp=drive_link
 
 ---
 
