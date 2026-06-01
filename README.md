@@ -41,7 +41,7 @@ Instead of predicting the original digits, digits are grouped into higher-level 
 | Class 2 | 2, 3, 5, 8 |
 | Class 3 | 4, 9 |
 
-This converts the problem into a 4-class classification task. :contentReference[oaicite:0]{index=0}
+This converts the problem into a 4-class classification task.
 
 ---
 
@@ -322,6 +322,10 @@ Training Configuration:
 - Part 2 achieves higher accuracy due to the reduced number of output classes.
 - The CNN architecture requires fewer than 5,000 trainable parameters, making it computationally efficient.
 - Adam optimizer provides stable and fast convergence.
+
+---
+# GPU
+* A100 GPU Rented from Jarvis LABS
 
 ---
 
